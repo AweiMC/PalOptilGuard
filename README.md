@@ -20,6 +20,7 @@ PalOptilGuard is an installer designed for the PalWorld server, providing a one-
 PalOptilGuard by AweiMC is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/). To view a copy of this license, visit the provided link.
 
 **Note:** This license restricts the commercial use of the software and requires any derivative works to be shared under the same license.
+![CC BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
 
 ## Contributing
 
@@ -30,3 +31,6 @@ Feel free to contribute by submitting bug reports, feature requests, or pull req
 If you encounter any issues or have questions, please check the [Issues](https://github.com/yourusername/PalOptilGuard/issues) section.
 
 Happy PalWorld hosting!
+
+## Other README?
+[Chinese 中文](https://github.com/AweiMC/PalOptilGuard/blob/main/README_ZH.md)
